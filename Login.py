@@ -20,8 +20,8 @@ class Login(object):
         self.header = Header.Header()
 
     def get_warning(self):
-        j_username = 'bjfl'
-        j_password = '88888'
+        j_username = ''
+        j_password = ''
         remember = 'on'
         saveflag = '1'
 
