@@ -6,7 +6,7 @@ import requests
 import Header
 from bs4 import BeautifulSoup
 
-__Author__ = '汪思源'
+__Author__ = 'Sean'
 
 
 class Login(object):
